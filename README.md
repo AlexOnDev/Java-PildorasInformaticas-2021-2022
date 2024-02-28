@@ -1,4 +1,4 @@
-# Java-PildorasInformaticas-2021-2022-
+# Java-PildorasInformaticas-2021-2022
 Curso Pildoras Informáticas JavaSE/JavaEE (80 horas aprox) **(Completado)** ⭐  
 Antes de iniciar el proyecto, descomrpimir plugins.rar dentro de .metadata
 
